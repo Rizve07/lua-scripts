@@ -144,7 +144,7 @@ local function createKeyUI()
     -- Configure GetKeyButton
     GetKeyButton.Name = "GetKeyButton"
     GetKeyButton.Parent = MainFrame
-    GetKeyButton.BackgroundColor3 = Color3.fromRGB(50, 70, 110)
+    GetKeyButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
     GetKeyButton.BorderSizePixel = 0
     GetKeyButton.Position = UDim2.new(0.5, -135, 0, 190)
     GetKeyButton.Size = UDim2.new(0, 270, 0, 40)
